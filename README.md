@@ -7,3 +7,4 @@ Pull Request Test
 
 First commit from VS Code
 
+I want to figure out how to commit and merge from VS Code
